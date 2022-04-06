@@ -1,3 +1,3 @@
 function clickButton() {
-    document.getElementById("test").innerHTML.toUpperCase();
+    document.getElementById("test").remove();
 }
