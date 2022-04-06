@@ -1,0 +1,8 @@
+body {
+    background-color: dimgray
+}
+
+li {
+    color: aquamarine;
+    border: ridge 5px blueviolet;
+}

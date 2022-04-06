@@ -1,2 +1,3 @@
-let divHtml = document.getElementById("secondDiv").innerHTML
-divHtml.toUpperCase();
+function clickButton() {
+    document.getElementById("test").innerHTML.toUpperCase();
+}
