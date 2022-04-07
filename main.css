@@ -1,8 +1,27 @@
 body {
-    background-color: dimgray
+    background-color: antiquewhite
+}
+
+ul {
+    list-style-type: circle;
 }
 
 li {
-    color: aquamarine;
-    border: ridge 5px blueviolet;
+    color: darkgreen;
+    font-family: sans-serif;    
+}
+
+li.secondItem {
+    color: blueviolet;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+button {
+    background-color: cadetblue;
+    font-family: monospace;
+    font-size: large;
 }
