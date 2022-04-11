@@ -5,22 +5,29 @@ body {
     /* background-color: antiquewhite */
 }
 
-ul {
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.intro {
+    padding: 125px;
+}
+
+/* ul {
     list-style-type: circle;
 }
 
 li {
     color: darkgreen;
-    font-family: sans-serif;    
+    font-family: sans-serif;
 }
 
 li.secondItem {
     color: blueviolet;
-}
-
-p {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: large;
 }
 
 button {
@@ -33,4 +40,4 @@ img {
     border-radius: 50px;
     max-width: 100%;
     max-height: auto;
-}
+} */
