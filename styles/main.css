@@ -19,7 +19,11 @@ p {
 }
 
 .intro {
-    padding: 150px 175px;
+    width: 700px;
+    padding: 1px 15px 20px 15px;
+    margin: 784px auto auto auto;
+    background-color: rgba(128, 128, 128, 0.05);
+    border-radius: 20px;
 }
 
 /* ul {
