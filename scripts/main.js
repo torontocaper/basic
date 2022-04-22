@@ -1,0 +1,1 @@
+document.getElementById("CB").style.color = "yellow";
