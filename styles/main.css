@@ -6,7 +6,7 @@ body {
     background-position-y: 1%;
 }
 
-h3 {
+#hello {
     padding-bottom: 5px;
     text-shadow: 1px 1px 1px grey;
     font-family: Arial, Helvetica, sans-serif;
