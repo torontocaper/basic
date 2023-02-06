@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home2/toronvf4/public_html/basic
-    - /bin/cp -R basic $DEPLOYPATH
