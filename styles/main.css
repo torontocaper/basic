@@ -1,3 +1,12 @@
+/* use the NES.css framework */
+@import url("https://unpkg.com/nes.css/css/nes.min.css");
+
+/* use the Google font "Press Start 2P" */
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+
+
+
+
 body {
     background-image: url("/images/gooseberry-cove-rotated.jpg");
     background-size: 2400px;
