@@ -14,28 +14,3 @@ body {
     background-position-x: center;
     background-position-y: 1%;
 }
-
-#hello {
-    padding-bottom: 5px;
-    text-shadow: 1px 1px 1px grey;
-    font-family: 'Press Start 2P', cursive;
-}
-
-p {
-    padding-left: 10px;
-    text-shadow: 1px 1px 1px grey;
-    font-family: 'Press Start 2P', cursive;
-}
-
-.intro {
-    width: 750px;
-    padding: 1px 15px 20px 15px;
-    margin: 800px auto auto auto;
-    background-color: rgba(128, 128, 128, 0.05);
-    border-radius: 20px;
-    line-height: 0.5;
-}
-
-#CB {
-    color: blue;
-}
